@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @che1nov
 - 👀 I’m interested in Go development and open-source projects.
 - 🌱 I’m currently learning advanced Go programming techniques and system design.
 - 💞️ I’m looking to collaborate on Go projects, especially those involving backend development and microservices.
