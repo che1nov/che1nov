@@ -25,8 +25,5 @@
 ### LeetCode Readme Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/che1nov?ext=heatmap)
 
-### GitHub Profile Views Counter
-![](https://komarev.com/ghpvc/?username=che1nov&color=green)
-
 ### GitHub Readme Quotes
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
