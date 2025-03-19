@@ -15,15 +15,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=che1nov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Additional Tools
-
-### 📈 GitHub Activity Graph:
-![che1nov's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=che1nov)
-
 ### Codewars
 [![codewars](https://www.codewars.com/users/che1nov/badges/large)](https://www.codewars.com/users/che1nov)
-
 ### LeetCode Readme Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/che1nov?ext=heatmap)
-
 ### GitHub Readme Quotes
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
