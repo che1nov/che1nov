@@ -1,7 +1,7 @@
 ## Tech Stack
-- **Programming Languages**: Go, Python, JavaScript
+- **Programming Languages**: Go, Python
 - **Web Frameworks**: Gin (Go), Django (Python)
-- **Databases**: PostgreSQL, MySQL, SQLite
+- **Databases**: PostgreSQL, MySQL
 - **Tools & Platforms**: Docker, Kubernetes, AWS, GCP
 - **Version Control**: Git, GitHub
 
