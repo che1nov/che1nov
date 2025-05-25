@@ -4,7 +4,7 @@
 - Frameworks and tools: Gin, Echo, gRPC, Gorilla Mux, Protobuf, Swagger/OpenAPI.
 - Working with APIs: RESTful API, GraphQL, microservice architecture.
 - Development tools: Docker, Kubernetes, Git, Makefile, CI/CD (GitHub Actions, Jenkins).
-- Cloud platforms: AWS, Google Cloud Platform (GCP), or Azure (specify if working with specific services).
+- Cloud platforms: AWS, Google Cloud Platform (GCP), Azure.
 - Methodologies: Agile, Scrum, Kanban.
 
 ## GitHub Stats
