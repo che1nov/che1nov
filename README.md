@@ -7,8 +7,5 @@
 - Cloud platforms: AWS, Google Cloud Platform (GCP), Azure.
 - Methodologies: Agile, Scrum, Kanban.
 
-![che1nov's GitHub stats](https://github-readme-stats.vercel.app/api?username=che1nov&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=che1nov&layout=compact)](https://github.com/che1nov/github-readme-stats)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/che1nov?ext=heatmap)
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
