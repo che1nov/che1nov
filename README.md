@@ -6,4 +6,5 @@
 - Development tools: Docker, Kubernetes, Git, Makefile, CI/CD (GitHub Actions, Jenkins).
 - Cloud platforms: AWS, Google Cloud Platform (GCP), Azure.
 - Methodologies: Agile, Scrum, Kanban.
+
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
