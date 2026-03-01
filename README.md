@@ -7,5 +7,5 @@ Backend developer specializing in Go and distributed systems.
 
 ## 🛠️ Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,postgres,mongodb,redis,docker,kubernetes,git,linux" />
+  <img src="https://skillicons.dev/icons?i=go,python,postgres,mongodb,kafka,redis,docker,kubernetes,git,postman,linux" />
 </p>
