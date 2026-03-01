@@ -2,7 +2,6 @@
 
 Backend developer specializing in Go and distributed systems.
 
-- Backend Software Engineer (Go)  
 - LeetCode — https://leetcode.com/u/che1nov  
 - Telegram — https://t.me/che1nov  
 
