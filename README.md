@@ -8,5 +8,5 @@ Tg: https://t.me/che1nov
 
 ## 🛠️ Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,postgres,mysql,mongodb,redis,docker,kubernetes,git,linux,aws,gcp,azure" />
+  <img src="https://skillicons.dev/icons?i=go,python,postgres,mongodb,redis,docker,kubernetes,git,linux" />
 </p>
