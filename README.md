@@ -2,9 +2,9 @@
 
 Backend developer specializing in Go and distributed systems.
 
-<i class="fi fi-brands-telegram"></i> Backend Software Engineer (Go)  
-🧩 LeetCode — https://leetcode.com/u/che1nov  
-💬 Telegram — https://t.me/che1nov  
+- Backend Software Engineer (Go)  
+- LeetCode — https://leetcode.com/u/che1nov  
+- Telegram — https://t.me/che1nov  
 
 ## 🛠️ Languages and Tools
 <p>
